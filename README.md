@@ -14,4 +14,4 @@ Responsive Amazon Clone built using HTML and advanced CSS.
 
 ## Author
 Aman Chaudhary
-You can also add screen
+
